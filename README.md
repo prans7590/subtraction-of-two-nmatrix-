@@ -1,4 +1,4 @@
-# subtractio-of-two-nmatrix-
+# subtractio-of-two-matrix-
 
 #include <stdio.h>
 
